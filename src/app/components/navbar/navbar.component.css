@@ -1,0 +1,17 @@
+.navbar-item{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    justify-content: space-between;
+}
+nav>ul>li>ul{
+    list-style-type: none;
+    display: flex;
+}
+.navbar-profile{
+    margin-right: 50px;
+}
+.navbarlist-item{
+    display: flex;
+    gap: 25px;
+}
